@@ -1,4 +1,4 @@
-#Prpgram by Daniel Rein Cosare
+#Program by Daniel Rein Cosare
 #PROGRAM #6
 
 class TV:
